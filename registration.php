@@ -70,21 +70,42 @@
 					<div class="login_form_inner">
 						<h3>Create an Account</h3>
 						<form class="row login_form" action="contact_process.php" method="post" id="contactForm" novalidate="novalidate">
-							<div class="col-md-12 form-group">
-								<input type="text" class="form-control" id="name" name="name" placeholder="Username" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Username'">
-							</div>
-							<div class="col-md-12 form-group">
-								<input type="text" class="form-control" id="name" name="name" placeholder="Password" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Password'">
-							</div>
-							<div class="col-md-12 form-group">
-								<div class="creat_account">
-									<input type="checkbox" id="f-option2" name="selector">
-									<label for="f-option2">Keep me logged in</label>
+							<div class="container">
+								<div class="row">
+									<div class="col-lg-6 form-group">
+										<input type="text" class="form-control" id="name" name="name" placeholder="Full Name" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Full Name'">
+									</div>
+									<div class="col-lg-6 form-group">
+										<input type="text" class="form-control" id="name" name="name" placeholder="Username" onfocus="this.placeholder = ''" onblur="this.placeholder = 'User name'">
+									</div>
 								</div>
 							</div>
+
+							<div class="container">
+								<div class="row">
+									<div class="col-lg-6 form-group">
+										<input type="text" class="form-control" id="name" name="name" placeholder="E-Mail" onfocus="this.placeholder = ''" onblur="this.placeholder = 'E-Mail'">
+									</div>
+									<div class="col-lg-6 form-group">
+										<input type="text" class="form-control" id="name" name="name" placeholder="Password" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Password'">
+									</div>
+								</div>
+							</div>
+							<div class="container">
+								<div class="row">
+									<div class="col-lg-6 form-group">
+										<input type="file" class="form-control" id="name" name="name" placeholder="Password" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Password'" value="Choose File">
+									</div>
+									<div class="col-lg-6 form-group">
+										<input type="file" class="form-control" id="name" name="name" placeholder="Confirm Password" onfocus="this.placeholder = ''" onblur="this.placeholder = 'UConfirm Password'">
+									</div>
+								</div>
+							</div>
+
+
 							<div class="col-md-12 form-group">
 								<button type="submit" value="submit" class="primary-btn">Register</button>
-								<a href="#">Forgot Password?</a>
+
 							</div>
 						</form>
 					</div>

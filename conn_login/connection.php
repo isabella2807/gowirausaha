@@ -1,5 +1,5 @@
 <?php
-$koneksi = mysqli_connect("localhost", "root", "", "db_inventory");
+$koneksi = mysqli_connect("localhost", "root", "", "db_gowi");
 
 // Check connection
 if (mysqli_connect_errno()) {

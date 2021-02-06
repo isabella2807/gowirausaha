@@ -19,7 +19,7 @@
               <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
                aria-expanded="false">Shop</a>
               <ul class="dropdown-menu">
-                <li class="nav-item"><a class="nav-link" href="category.html">Shop Category</a></li>
+                <li class="nav-item"><a class="nav-link" href="category.php">Shop Category</a></li>
                 <li class="nav-item"><a class="nav-link" href="single-product.html">Product Details</a></li>
                 <li class="nav-item"><a class="nav-link" href="checkout.html">Product Checkout</a></li>
                 <li class="nav-item"><a class="nav-link" href="cart.html">Shopping Cart</a></li>
@@ -31,7 +31,7 @@
                aria-expanded="false">Blog</a>
               <ul class="dropdown-menu">
                 <li class="nav-item"><a class="nav-link" href="blog.php">Blog</a></li>
-                <li class="nav-item"><a class="nav-link" href="single-blog.html">Blog Details</a></li>
+                <li class="nav-item"><a class="nav-link" href="single-blog.php">Blog Details</a></li>
               </ul>
             </li>
             <li class="nav-item submenu dropdown">
@@ -45,6 +45,14 @@
             </li>
             <li class="nav-item"><a class="nav-link" href="contact.php">Contact</a></li>
             <li class="nav-item"><a class="nav-link" href="login.php">Login</a></li>
+            <li class="nav-item submenu dropdown">
+              <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+               aria-expanded="false">Register</a>
+              <ul class="dropdown-menu">
+                <li class="nav-item"><a class="nav-link" href="reg_reseller.php">Reseller</a></li>
+                <li class="nav-item"><a class="nav-link" href="reg_supplier.php">Supplier</a></li>
+              </ul>
+            </li>
           </ul>
           <ul class="nav navbar-nav navbar-right">
             <li class="nav-item"><a href="#" class="cart"><span class="ti-bag"></span></a></li>

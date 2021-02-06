@@ -5,7 +5,7 @@
 	<!-- Mobile Specific Meta -->
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<!-- Favicon-->
-	<link rel="shortcut icon" href="img/favgowi.png">
+	<link rel="shortcut icon" href="img/fav.png">
 	<!-- Author Meta -->
 	<meta name="author" content="CodePixar">
 	<!-- Meta Description -->
@@ -15,7 +15,7 @@
 	<!-- meta character set -->
 	<meta charset="UTF-8">
 	<!-- Site Title -->
-	<title>Go Wirausaha</title>
+	<title>Karma Shop</title>
 
 	<!--
 		CSS
@@ -33,7 +33,9 @@
 <body>
 
 	<!-- Start Header Area -->
-	<?php include 'navbar.php'; ?>
+	<?php
+		include 'navbar.php';
+	 ?>
 	<!-- End Header Area -->
 
 	<!-- Start Banner Area -->
@@ -41,10 +43,10 @@
 		<div class="container">
 			<div class="breadcrumb-banner d-flex flex-wrap align-items-center justify-content-end">
 				<div class="col-first">
-					<h1>Register</h1>
+					<h1>Membership 1 Bulan</h1>
 					<nav class="d-flex align-items-center">
 						<a href="index.php">Home<span class="lnr lnr-arrow-right"></span></a>
-						<a href="category.php">Login/Register</a>
+						<a href="reg_reseller.php">Daftar Reseller</a>
 					</nav>
 				</div>
 			</div>
@@ -53,137 +55,47 @@
 	<!-- End Banner Area -->
 
 	<!--================Login Box Area =================-->
-
-	<!--================End Login Box Area =================-->
-
-  <!-- start Membership Area -->
-	<section class="features-area section_gap">
+	<section class="login_box_area section_gap">
 		<div class="container">
-			<div class="row features-inner">
-				<!-- single features -->
-				<div class="col-lg-3 col-md-6 col-sm-6">
-					<div class="single-features">
-						<div class="f-icon">
-							<img src="img/features/f-icon1.png" alt="">
-						</div>
-						<p>1 Bulan</p>
-            <h3>Rp. 30.000</h3>
-						<p>1 Bulan Membership</p>
-            <br>
-            <p>
-              <ul class="">
-                <li>Akses Produk Siap Jual</li>
-                <li>Transaksi Unlimited</li>
-                <li>Semua Fitur Dropship</li>
-                <li>White Label Dropship</li>
-                <li>Resi Otomatis</li>
-                <li>Website Toko Online</li>
-                <li>Dropship Academy</li>
-                <li>Promotion KIT</li>
-                <li>Bonus Spesial</li>
-              </ul>
-            </p>
-            <div class="container border-top-generic">
-              <div class="button-group-area mt-40">
-        				<a href="reg_1bln.php" class="genric-btn primary circle">Daftar Sekarang</a>
-        			</div>
-            </div>
+			<div class="row">
+				<div class="col-lg-3"></div>
+				<div class="col-lg-6">
+					<div class="login_form_inner">
+						<h3>Create New Account</h3>
+						<form class="row login_form" action="conn_login/check_login.php" method="post" id="contactForm" novalidate="novalidate">
+							<div class="col-md-12 form-group">
+								<input type="text" class="form-control" id="user" name="user" placeholder="Nama Lengkap" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Username'">
+							</div>
+							<div class="col-md-12 form-group">
+								<input type="text" class="form-control" id="password" name="password" placeholder="Email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Password'">
+							</div>
+							<div class="col-md-12 form-group">
+								<input type="text" class="form-control" id="user" name="user" placeholder="No. HP" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Username'">
+							</div>
+							<div class="col-md-12 form-group">
+								<input type="text" class="form-control" id="password" name="password" placeholder="Password" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Password'">
+							</div>
+							<div class="col-md-12 form-group">
+								<input type="text" class="form-control" id="user" name="user" placeholder="Confirm Password" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Username'">
+							</div>
+							<div class="col-md-12 form-group">
+								<div class="creat_account">
+									<input type="checkbox" id="f-option2" name="selector">
+									<label for="f-option2">Keep me logged in</label>
+								</div>
+							</div>
+							<div class="col-md-12 form-group">
+								<button type="submit" value="submit" class="primary-btn" name="login">Log In</button>
+								<a href="#">Forgot Password?</a>
+							</div>
+						</form>
 					</div>
 				</div>
-				<!-- single features -->
-				<div class="col-lg-3 col-md-6 col-sm-6">
-					<div class="single-features">
-						<div class="f-icon">
-							<img src="img/features/f-icon2.png" alt="">
-						</div>
-            <p>3 Bulan</p>
-            <h3>Rp. 30.000</h3>
-						<p>3 Bulan Membership</p>
-            <br>
-            <p>
-              <ul class="">
-                <li>Akses Produk Siap Jual</li>
-                <li>Transaksi Unlimited</li>
-                <li>Semua Fitur Dropship</li>
-                <li>White Label Dropship</li>
-                <li>Resi Otomatis</li>
-                <li>Website Toko Online</li>
-                <li>Dropship Academy</li>
-                <li>Promotion KIT</li>
-                <li>Bonus Spesial</li>
-              </ul>
-            </p>
-            <div class="container border-top-generic">
-              <div class="button-group-area mt-40">
-        				<a href="#" class="genric-btn success circle">Daftar Sekarang</a>
-        			</div>
-            </div>
-					</div>
-				</div>
-				<!-- single features -->
-				<div class="col-lg-3 col-md-6 col-sm-6">
-					<div class="single-features">
-						<div class="f-icon">
-							<img src="img/features/f-icon3.png" alt="">
-						</div>
-            <p>6 Bulan</p>
-            <h3>Rp. 30.000</h3>
-						<p>6 Bulan Membership</p>
-            <br>
-            <p>
-              <ul class="">
-                <li>Akses Produk Siap Jual</li>
-                <li>Transaksi Unlimited</li>
-                <li>Semua Fitur Dropship</li>
-                <li>White Label Dropship</li>
-                <li>Resi Otomatis</li>
-                <li>Website Toko Online</li>
-                <li>Dropship Academy</li>
-                <li>Promotion KIT</li>
-                <li>Bonus Spesial</li>
-              </ul>
-            </p>
-            <div class="container border-top-generic">
-              <div class="button-group-area mt-40">
-        				<a href="#" class="genric-btn info circle">Daftar Sekarang</a>
-        			</div>
-            </div>
-					</div>
-				</div>
-				<!-- single features -->
-				<div class="col-lg-3 col-md-6 col-sm-6">
-					<div class="single-features">
-						<div class="f-icon">
-							<img src="img/features/f-icon4.png" alt="">
-						</div>
-            <p>1 Tahun</p>
-            <h3>Rp. 30.000</h3>
-						<p>1 Tahun Membership</p>
-            <br>
-            <p>
-              <ul class="">
-                <li>Akses Produk Siap Jual</li>
-                <li>Transaksi Unlimited</li>
-                <li>Semua Fitur Dropship</li>
-                <li>White Label Dropship</li>
-                <li>Resi Otomatis</li>
-                <li>Website Toko Online</li>
-                <li>Dropship Academy</li>
-                <li>Promotion KIT</li>
-                <li>Bonus Spesial</li>
-              </ul>
-            </p>
-            <div class="container border-top-generic">
-              <div class="button-group-area mt-40">
-        				<a href="#" class="genric-btn danger circle">Daftar Sekarang</a>
-        			</div>
-            </div>
-					</div>
-				</div>
+				<div class="col-lg-3"></div>
 			</div>
 		</div>
 	</section>
-	<!-- end Membership Area -->
+	<!--================End Login Box Area =================-->
 
 	<!-- start footer Area -->
 	<footer class="footer-area section_gap">

@@ -41,10 +41,10 @@
 		<div class="container">
 			<div class="breadcrumb-banner d-flex flex-wrap align-items-center justify-content-end">
 				<div class="col-first">
-					<h1>Login/Register</h1>
+					<h1>Welcome, Calon Supplier</h1>
 					<nav class="d-flex align-items-center">
 						<a href="index.php">Home<span class="lnr lnr-arrow-right"></span></a>
-						<a href="category.php">Login/Register</a>
+						<a href="reg_supplier.php">Daftar Supplier</a>
 					</nav>
 				</div>
 			</div>
@@ -56,60 +56,68 @@
 	<section class="login_box_area section_gap">
 		<div class="container">
 			<div class="row">
-				<div class="col-lg-6">
-					<div class="login_box_img">
-						<img class="img-fluid" src="img/login.jpg" alt="">
-						<div class="hover">
-							<h4>New to our website?</h4>
-							<p>There are advances being made in science and technology everyday, and a good example of this is the</p>
-							<a class="primary-btn" href="login.php">Login Now</a>
-						</div>
-					</div>
-				</div>
+				<div class="col-lg-3"></div>
 				<div class="col-lg-6">
 					<div class="login_form_inner">
 						<h3>Create an Account</h3>
 						<form class="row login_form" action="contact_process.php" method="post" id="contactForm" novalidate="novalidate">
 							<div class="container">
 								<div class="row">
-									<div class="col-lg-6 form-group">
-										<input type="text" class="form-control" id="name" name="name" placeholder="Full Name" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Full Name'">
-									</div>
-									<div class="col-lg-6 form-group">
-										<input type="text" class="form-control" id="name" name="name" placeholder="Username" onfocus="this.placeholder = ''" onblur="this.placeholder = 'User name'">
+									<div class="col-lg-12 form-group">
+										<input type="text" class="form-control" id="name" name="name" placeholder="Nama Lengkap" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Nama Lengkap'">
 									</div>
 								</div>
 							</div>
 
 							<div class="container">
 								<div class="row">
-									<div class="col-lg-6 form-group">
-										<input type="text" class="form-control" id="name" name="name" placeholder="E-Mail" onfocus="this.placeholder = ''" onblur="this.placeholder = 'E-Mail'">
+									<div class="col-lg-12 form-group">
+										<input type="text" class="form-control" id="name" name="name" placeholder="Nama Toko" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Nama Toko'">
 									</div>
-									<div class="col-lg-6 form-group">
+									</div>
+							</div>
+							<div class="container">
+								<div class="row">
+									<div class="col-lg-12 form-group">
+										<input type="text" class="form-control" id="name" name="name" placeholder="Email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'E-Mail'">
+									</div>
+									</div>
+							</div>
+							<div class="container">
+								<div class="row">
+									<div class="col-lg-12 form-group">
+										<input type="text" class="form-control" id="name" name="name" placeholder="No. HP" onfocus="this.placeholder = ''" onblur="this.placeholder = 'No. HP'">
+									</div>
+									</div>
+							</div>
+							<div class="container">
+								<div class="row">
+									<div class="col-lg-12 form-group">
 										<input type="text" class="form-control" id="name" name="name" placeholder="Password" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Password'">
 									</div>
-								</div>
+									</div>
+							</div><div class="container">
+								<div class="row">
+									<div class="col-lg-12 form-group">
+										<input type="text" class="form-control" id="name" name="name" placeholder="Konfirmasi Password" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Konfirmasi Password'">
+									</div>
+									</div>
 							</div>
 							<div class="container">
 								<div class="row">
-									<div class="col-lg-6 form-group">
-										<input type="file" class="form-control" id="name" name="name" placeholder="Password" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Password'" value="Choose File">
-									</div>
-									<div class="col-lg-6 form-group">
-										<input type="file" class="form-control" id="name" name="name" placeholder="Confirm Password" onfocus="this.placeholder = ''" onblur="this.placeholder = 'UConfirm Password'">
+									<div class="col-lg-12 form-group">
+										<input type="file" class="form-control" id="name" name="name" placeholder="Choose" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Password'" value="Choose File">
 									</div>
 								</div>
 							</div>
-
-
+							<br>
 							<div class="col-md-12 form-group">
 								<button type="submit" value="submit" class="primary-btn">Register</button>
-
 							</div>
 						</form>
 					</div>
 				</div>
+				<div class="col-lg-3"></div>
 			</div>
 		</div>
 	</section>

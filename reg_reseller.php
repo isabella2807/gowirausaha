@@ -41,10 +41,10 @@
 		<div class="container">
 			<div class="breadcrumb-banner d-flex flex-wrap align-items-center justify-content-end">
 				<div class="col-first">
-					<h1>Register</h1>
-					<nav class="d-flex align-items-center">
+					<h1>Welcome, Calon Resseler</h1>
+					<nav class="d-flex align-items-right">
 						<a href="index.php">Home<span class="lnr lnr-arrow-right"></span></a>
-						<a href="category.php">Login/Register</a>
+						<a href="reg_reseller.php">Daftar Reseller</a>
 					</nav>
 				</div>
 			</div>
@@ -64,23 +64,19 @@
 				<div class="col-lg-3 col-md-6 col-sm-6">
 					<div class="single-features">
 						<div class="f-icon">
-							<img src="img/feature/fav1.png" alt="">
+							<img src="img/favprimary.png" alt="">
 						</div>
-						<p>1 Bulan</p>
-            <h3>Rp. 30.000</h3>
+						<p><strong>1 Bulan</strong></p>
+            <h3>Rp. 20.000</h3>
 						<p>1 Bulan Membership</p>
             <br>
-            <p>
+						<p>
               <ul class="">
                 <li>Akses Produk Siap Jual</li>
                 <li>Transaksi Unlimited</li>
-                <li>Semua Fitur Dropship</li>
-                <li>White Label Dropship</li>
+                <li>Semua Fitur Reseller</li>
                 <li>Resi Otomatis</li>
-                <li>Website Toko Online</li>
-                <li>Dropship Academy</li>
-                <li>Promotion KIT</li>
-                <li>Bonus Spesial</li>
+                <li>Tips dan Trick</li>
               </ul>
             </p>
             <div class="container border-top-generic">
@@ -94,23 +90,19 @@
 				<div class="col-lg-3 col-md-6 col-sm-6">
 					<div class="single-features">
 						<div class="f-icon">
-							<img src="img/features/f-icon2.png" alt="">
+							<img src="img/favsuccess.png" alt="">
 						</div>
-            <p>3 Bulan</p>
-            <h3>Rp. 30.000</h3>
+            <p><strong>3 Bulan</strong></p>
+            <h3>Rp. 50.000</h3>
 						<p>3 Bulan Membership</p>
             <br>
-            <p>
+						<p>
               <ul class="">
                 <li>Akses Produk Siap Jual</li>
                 <li>Transaksi Unlimited</li>
-                <li>Semua Fitur Dropship</li>
-                <li>White Label Dropship</li>
+                <li>Semua Fitur Reseller</li>
                 <li>Resi Otomatis</li>
-                <li>Website Toko Online</li>
-                <li>Dropship Academy</li>
-                <li>Promotion KIT</li>
-                <li>Bonus Spesial</li>
+                <li>Tips dan Trick</li>
               </ul>
             </p>
             <div class="container border-top-generic">
@@ -124,23 +116,19 @@
 				<div class="col-lg-3 col-md-6 col-sm-6">
 					<div class="single-features">
 						<div class="f-icon">
-							<img src="img/features/f-icon3.png" alt="">
+							<img src="img/favinfo.png" alt="">
 						</div>
-            <p>6 Bulan</p>
-            <h3>Rp. 30.000</h3>
+            <p><strong>6 Bulan</strong></p>
+            <h3>Rp. 90.000</h3>
 						<p>6 Bulan Membership</p>
             <br>
-            <p>
+						<p>
               <ul class="">
                 <li>Akses Produk Siap Jual</li>
                 <li>Transaksi Unlimited</li>
-                <li>Semua Fitur Dropship</li>
-                <li>White Label Dropship</li>
+                <li>Semua Fitur Reseller</li>
                 <li>Resi Otomatis</li>
-                <li>Website Toko Online</li>
-                <li>Dropship Academy</li>
-                <li>Promotion KIT</li>
-                <li>Bonus Spesial</li>
+                <li>Tips dan Trick</li>
               </ul>
             </p>
             <div class="container border-top-generic">
@@ -154,23 +142,19 @@
 				<div class="col-lg-3 col-md-6 col-sm-6">
 					<div class="single-features">
 						<div class="f-icon">
-							<img src="img/features/f-icon4.png" alt="">
+							<img src="img/favdanger.png" alt="">
 						</div>
-            <p>1 Tahun</p>
-            <h3>Rp. 30.000</h3>
+            <p><strong>1 Tahun</strong></p>
+            <h3>Rp. 170.000</h3>
 						<p>1 Tahun Membership</p>
             <br>
             <p>
               <ul class="">
                 <li>Akses Produk Siap Jual</li>
                 <li>Transaksi Unlimited</li>
-                <li>Semua Fitur Dropship</li>
-                <li>White Label Dropship</li>
+                <li>Semua Fitur Reseller</li>
                 <li>Resi Otomatis</li>
-                <li>Website Toko Online</li>
-                <li>Dropship Academy</li>
-                <li>Promotion KIT</li>
-                <li>Bonus Spesial</li>
+                <li>Tips dan Trick</li>
               </ul>
             </p>
             <div class="container border-top-generic">

@@ -46,7 +46,7 @@
 					<h1>Membership 1 Bulan</h1>
 					<nav class="d-flex align-items-center">
 						<a href="index.php">Home<span class="lnr lnr-arrow-right"></span></a>
-						<a href="reg_reseller.php">Daftar Reseller</a>
+						<a href="reg_reseller.php">Pilih Paket</a>
 					</nav>
 				</div>
 			</div>
@@ -79,14 +79,8 @@
 								<input type="text" class="form-control" id="user" name="user" placeholder="Confirm Password" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Username'">
 							</div>
 							<div class="col-md-12 form-group">
-								<div class="creat_account">
-									<input type="checkbox" id="f-option2" name="selector">
-									<label for="f-option2">Keep me logged in</label>
-								</div>
-							</div>
-							<div class="col-md-12 form-group">
 								<button type="submit" value="submit" class="primary-btn" name="login">Log In</button>
-								<a href="#">Forgot Password?</a>
+								<br>
 							</div>
 						</form>
 					</div>

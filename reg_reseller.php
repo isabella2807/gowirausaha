@@ -64,7 +64,7 @@
 				<div class="col-lg-3 col-md-6 col-sm-6">
 					<div class="single-features">
 						<div class="f-icon">
-							<img src="img/features/f-icon1.png" alt="">
+							<img src="img/feature/fav1.png" alt="">
 						</div>
 						<p>1 Bulan</p>
             <h3>Rp. 30.000</h3>

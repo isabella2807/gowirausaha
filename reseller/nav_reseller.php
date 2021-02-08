@@ -14,8 +14,8 @@
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse offset" id="navbarSupportedContent">
           <ul class="nav navbar-nav menu_nav ml-auto">
-            <li class="nav-item active"><a class="nav-link" href="index.php">Home</a></li>
-            <li class="nav-item"><a class="nav-link" href="produk.php">Produk</a></li>
+            <li class="nav-item active"><a class="nav-link" href="home_reseller.php">Home</a></li>
+            <li class="nav-item"><a class="nav-link" href="#">Dashboard</a></li>
             <li class="nav-item submenu dropdown">
               <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
                aria-expanded="false">Shop</a>
@@ -31,29 +31,12 @@
               <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
                aria-expanded="false">Blog</a>
               <ul class="dropdown-menu">
-                <li class="nav-item"><a class="nav-link" href="blog.php">Blog</a></li>
-                <li class="nav-item"><a class="nav-link" href="single-blog.php">Blog Details</a></li>
+                <li class="nav-item"><a class="nav-link" href="../blog.php">Blog</a></li>
+                <li class="nav-item"><a class="nav-link" href="../single-blog.php">Blog Details</a></li>
               </ul>
             </li>
-            <li class="nav-item submenu dropdown">
-              <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
-               aria-expanded="false">Pages</a>
-              <ul class="dropdown-menu">
-                <li class="nav-item"><a class="nav-link" href="login.php">Login</a></li>
-                <li class="nav-item"><a class="nav-link" href="tracking.html">Tracking</a></li>
-                <li class="nav-item"><a class="nav-link" href="elements.html">Elements</a></li>
-              </ul>
-            </li>
-            <li class="nav-item"><a class="nav-link" href="contact.php">Contact</a></li>
-            <li class="nav-item"><a class="nav-link" href="login.php">Login</a></li>
-            <li class="nav-item submenu dropdown">
-              <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
-               aria-expanded="false">Daftar</a>
-              <ul class="dropdown-menu">
-                <li class="nav-item"><a class="nav-link" href="reg_reseller.php">Reseller</a></li>
-                <li class="nav-item"><a class="nav-link" href="reg_supplier.php">Supplier</a></li>
-              </ul>
-            </li>
+
+            <li class="nav-item"><a class="nav-link" href="../index.php">Logout</a></li>
           </ul>
           <ul class="nav navbar-nav navbar-right">
             <li class="nav-item"><a href="#" class="cart"><span class="ti-bag"></span></a></li>

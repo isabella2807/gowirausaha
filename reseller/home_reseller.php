@@ -241,20 +241,20 @@
 													<h6 class="l-through">$210.00</h6>
 												</div>
 												<div class="prd-bottom">
-
 													<a href="" class="social-info">
-														<span class="ti-bag"></span>
-														<p class="hover-text">add to bag</p>
+														<span class="fa fa-facebook"></span>
+														<p class="hover-text">Share FB</p>
 													</a>
 													<a href="" class="social-info">
-														<span class="lnr lnr-heart"></span>
-														<p class="hover-text">Wishlist</p>
+														<span class="fa fa-instagram"></span>
+														<p class="hover-text">Share IG</p>
 													</a>
 													<a href="" class="social-info">
-														<span class="lnr lnr-sync"></span>
-														<p class="hover-text">compare</p>
+														<span class="fa fa-whatsapp"></span>
+														<p class="hover-text">Share WA</p>
 													</a>
-													<a href="../single-product.php" class="social-info">
+													
+													<a href="single-product.php" class="social-info">
 														<span class="lnr lnr-move"></span>
 														<p class="hover-text">detail</p>
 													</a>

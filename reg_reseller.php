@@ -63,17 +63,18 @@
 				<!-- single features -->
 				<div class="col-lg-3 col-md-6 col-sm-6">
 					<div class="single-features">
+						<h3 class="widget_title">Paket Silver</h3>
 						<div class="f-icon">
-							<img src="img/favprimary.png" alt="">
+							<img src="img/favinfo.png" alt="">
 						</div>
-						<p><strong>1 Bulan</strong></p>
+
+						<h4>Normal</h4>
             <h3>Rp. 20.000</h3>
-						<p>1 Bulan Membership</p>
+						<p><strong>1 Bulan Membership</strong></p>
             <br>
 						<p>
               <ul class="">
                 <li>Akses Produk Siap Jual</li>
-                <li>Transaksi Unlimited</li>
                 <li>Semua Fitur Reseller</li>
                 <li>Resi Otomatis</li>
                 <li>Tips dan Trick</li>
@@ -81,7 +82,7 @@
             </p>
             <div class="container border-top-generic">
               <div class="button-group-area mt-40">
-        				<a href="reg_1bln.php" class="genric-btn primary circle">Daftar Sekarang</a>
+        				<a href="reg_1bln.php" class="genric-btn info circle">Daftar Sekarang</a>
         			</div>
             </div>
 					</div>
@@ -89,17 +90,18 @@
 				<!-- single features -->
 				<div class="col-lg-3 col-md-6 col-sm-6">
 					<div class="single-features">
+						<h3 class="widget_title">Paket Platinum</h3>
 						<div class="f-icon">
 							<img src="img/favsuccess.png" alt="">
 						</div>
-            <p><strong>3 Bulan</strong></p>
-            <h3>Rp. 50.000</h3>
-						<p>3 Bulan Membership</p>
+
+						<h4><s>Rp. 60.000</s></h4>
+            <h3>Rp. 55.000</h3>
+						<p><strong>3 Bulan Membership</strong></p>
             <br>
 						<p>
               <ul class="">
                 <li>Akses Produk Siap Jual</li>
-                <li>Transaksi Unlimited</li>
                 <li>Semua Fitur Reseller</li>
                 <li>Resi Otomatis</li>
                 <li>Tips dan Trick</li>
@@ -115,17 +117,18 @@
 				<!-- single features -->
 				<div class="col-lg-3 col-md-6 col-sm-6">
 					<div class="single-features">
+						<h3 class="widget_title">Paket Gold</h3>
 						<div class="f-icon">
-							<img src="img/favinfo.png" alt="">
+							<img src="img/favprimary.png" alt="">
 						</div>
-            <p><strong>6 Bulan</strong></p>
-            <h3>Rp. 90.000</h3>
-						<p>6 Bulan Membership</p>
+
+						<h4><s>Rp. 120.000</s></h4>
+            <h3>Rp. 105.000</h3>
+					  <p><strong>6 Bulan Membership</strong></p>
             <br>
 						<p>
               <ul class="">
                 <li>Akses Produk Siap Jual</li>
-                <li>Transaksi Unlimited</li>
                 <li>Semua Fitur Reseller</li>
                 <li>Resi Otomatis</li>
                 <li>Tips dan Trick</li>
@@ -133,7 +136,7 @@
             </p>
             <div class="container border-top-generic">
               <div class="button-group-area mt-40">
-        				<a href="#" class="genric-btn info circle">Daftar Sekarang</a>
+        				<a href="#" class="genric-btn primary circle">Daftar Sekarang</a>
         			</div>
             </div>
 					</div>
@@ -141,17 +144,18 @@
 				<!-- single features -->
 				<div class="col-lg-3 col-md-6 col-sm-6">
 					<div class="single-features">
+						<h3 class="widget_title">Paket Diamond</h3>
 						<div class="f-icon">
 							<img src="img/favdanger.png" alt="">
 						</div>
-            <p><strong>1 Tahun</strong></p>
-            <h3>Rp. 170.000</h3>
-						<p>1 Tahun Membership</p>
+
+						<h4><s>Rp. 240.000</s></h4>
+            <h3>Rp. 200.000</h3>
+						<p><strong>1 Tahun Membership</strong></p>
             <br>
             <p>
               <ul class="">
                 <li>Akses Produk Siap Jual</li>
-                <li>Transaksi Unlimited</li>
                 <li>Semua Fitur Reseller</li>
                 <li>Resi Otomatis</li>
                 <li>Tips dan Trick</li>

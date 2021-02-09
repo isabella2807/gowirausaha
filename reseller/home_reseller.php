@@ -39,7 +39,7 @@
 	<!-- Start Banner Area -->
 	<section class="banner-area organic-breadcrumb">
 		<div class="container">
-			
+
 		</div>
 	</section>
 	<!-- End Banner Area -->
@@ -254,9 +254,9 @@
 														<span class="lnr lnr-sync"></span>
 														<p class="hover-text">compare</p>
 													</a>
-													<a href="" class="social-info">
+													<a href="../single-product.php" class="social-info">
 														<span class="lnr lnr-move"></span>
-														<p class="hover-text">view more</p>
+														<p class="hover-text">detail</p>
 													</a>
 												</div>
 											</div>

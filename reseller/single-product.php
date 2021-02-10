@@ -60,20 +60,20 @@
 				<div class="col-lg-6">
 					<div class="s_Product_carousel">
 						<div class="single-prd-item">
-							<img class="img-fluid" src="../img/category/s-p1.jpg" alt="">
+							<img class="img-fluid" src="../img/product/p1.jpg" alt="">
 						</div>
 						<div class="single-prd-item">
-							<img class="img-fluid" src="../img/category/s-p1.jpg" alt="">
+							<img class="img-fluid" src="../img/product/p1.jpg" alt="">
 						</div>
 						<div class="single-prd-item">
-							<img class="img-fluid" src="../img/category/s-p1.jpg" alt="">
+							<img class="img-fluid" src="../img/product/p1.jpg" alt="">
 						</div>
 					</div>
 				</div>
 				<div class="col-lg-5 offset-lg-1">
 					<div class="s_product_text">
-						<h3>Faded SkyBlu Denim Jeans</h3>
-						<h2>$149.99</h2>
+						<h3>Product 1</h3>
+						<h2>Rp. 150.000</h2>
 						<ul class="list">
 							<li><a class="active" href="#"><span>Category</span> : Household</a></li>
 							<li><a href="#"><span>Availibility</span> : In Stock</a></li>

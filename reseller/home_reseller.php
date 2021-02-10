@@ -234,11 +234,10 @@
 									<div class="single-product">
 										<img class="img-fluid" src="../img/product/p1.jpg" alt="">
 										<div class="product-details">
-											<h6>addidas New Hammer sole
-												for Sports person</h6>
+											<h6>Product 1</h6>
 												<div class="price">
-													<h6>$150.00</h6>
-													<h6 class="l-through">$210.00</h6>
+													<h6>Rp. 150.000</h6>
+													<h6 class="l-through">Rp.175.000</h6>
 												</div>
 												<div class="prd-bottom">
 													<a href="" class="social-info">
@@ -253,7 +252,7 @@
 														<span class="fa fa-whatsapp"></span>
 														<p class="hover-text">Share WA</p>
 													</a>
-													
+
 													<a href="single-product.php" class="social-info">
 														<span class="lnr lnr-move"></span>
 														<p class="hover-text">detail</p>
@@ -265,31 +264,30 @@
 									<!-- single product -->
 									<div class="col-lg-4 col-md-6">
 										<div class="single-product">
-											<img class="img-fluid" src="../img/product/p2.jpg" alt="">
+											<img class="img-fluid" src="../img/product/p5.jpg" alt="">
 											<div class="product-details">
-												<h6>addidas New Hammer sole
-													for Sports person</h6>
+												<h6>Product 2</h6>
 													<div class="price">
-														<h6>$150.00</h6>
-														<h6 class="l-through">$210.00</h6>
+														<h6>Rp. 95.000</h6>
+														<h6 class="l-through">Rp. 120.000</h6>
 													</div>
 													<div class="prd-bottom">
+														<a href="" class="social-info">
+															<span class="fa fa-facebook"></span>
+															<p class="hover-text">Share FB</p>
+														</a>
+														<a href="" class="social-info">
+															<span class="fa fa-instagram"></span>
+															<p class="hover-text">Share IG</p>
+														</a>
+														<a href="" class="social-info">
+															<span class="fa fa-whatsapp"></span>
+															<p class="hover-text">Share WA</p>
+														</a>
 
-														<a href="" class="social-info">
-															<span class="ti-bag"></span>
-															<p class="hover-text">add to bag</p>
-														</a>
-														<a href="" class="social-info">
-															<span class="lnr lnr-heart"></span>
-															<p class="hover-text">Wishlist</p>
-														</a>
-														<a href="" class="social-info">
-															<span class="lnr lnr-sync"></span>
-															<p class="hover-text">compare</p>
-														</a>
-														<a href="" class="social-info">
+														<a href="single-product.php" class="social-info">
 															<span class="lnr lnr-move"></span>
-															<p class="hover-text">view more</p>
+															<p class="hover-text">detail</p>
 														</a>
 													</div>
 												</div>
@@ -300,29 +298,27 @@
 											<div class="single-product">
 												<img class="img-fluid" src="../img/product/p3.jpg" alt="">
 												<div class="product-details">
-													<h6>addidas New Hammer sole
-														for Sports person</h6>
+													<h6>Product 3</h6>
 														<div class="price">
-															<h6>$150.00</h6>
-															<h6 class="l-through">$210.00</h6>
+															<h6>Rp. 170.000</h6>
+															<h6 class="l-through">Rp. 200.000</h6>
 														</div>
 														<div class="prd-bottom">
-
 															<a href="" class="social-info">
-																<span class="ti-bag"></span>
-																<p class="hover-text">add to bag</p>
+																<span class="fa fa-facebook"></span>
+																<p class="hover-text">Share FB</p>
 															</a>
 															<a href="" class="social-info">
-																<span class="lnr lnr-heart"></span>
-																<p class="hover-text">Wishlist</p>
+																<span class="fa fa-instagram"></span>
+																<p class="hover-text">Share IG</p>
 															</a>
 															<a href="" class="social-info">
-																<span class="lnr lnr-sync"></span>
-																<p class="hover-text">compare</p>
+																<span class="fa fa-whatsapp"></span>
+																<p class="hover-text">Share WA</p>
 															</a>
-															<a href="" class="social-info">
+															<a href="single-product.php" class="social-info">
 																<span class="lnr lnr-move"></span>
-																<p class="hover-text">view more</p>
+																<p class="hover-text">detail</p>
 															</a>
 														</div>
 													</div>
@@ -333,10 +329,9 @@
 												<div class="single-product">
 													<img class="img-fluid" src="../img/product/p4.jpg" alt="">
 													<div class="product-details">
-														<h6>addidas New Hammer sole
-															for Sports person</h6>
+														<h6>Produt 2</h6>
 															<div class="price">
-																<h6>$150.00</h6>
+																<h6>Rp. 105.00</h6>
 																<h6 class="l-through">$210.00</h6>
 															</div>
 															<div class="prd-bottom">
@@ -366,10 +361,9 @@
 													<div class="single-product">
 														<img class="img-fluid" src="../img/product/p5.jpg" alt="">
 														<div class="product-details">
-															<h6>addidas New Hammer sole
-																for Sports person</h6>
+															<h6>Product 3</h6>
 																<div class="price">
-																	<h6>$150.00</h6>
+																	<h6>Rp. 155.000</h6>
 																	<h6 class="l-through">$210.00</h6>
 																</div>
 																<div class="prd-bottom">
@@ -399,8 +393,7 @@
 														<div class="single-product">
 															<img class="img-fluid" src="../img/product/p6.jpg" alt="">
 															<div class="product-details">
-																<h6>addidas New Hammer sole
-																	for Sports person</h6>
+																<h6>Product </h6>
 																	<div class="price">
 																		<h6>$150.00</h6>
 																		<h6 class="l-through">$210.00</h6>

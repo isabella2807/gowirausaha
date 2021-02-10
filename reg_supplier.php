@@ -5,7 +5,7 @@
 	<!-- Mobile Specific Meta -->
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<!-- Favicon-->
-	<link rel="shortcut icon" href="img/fav.png">
+	<link rel="shortcut icon" href="img/favgowi.png">
 	<!-- Author Meta -->
 	<meta name="author" content="CodePixar">
 	<!-- Meta Description -->
@@ -41,7 +41,7 @@
 		<div class="container">
 			<div class="breadcrumb-banner d-flex flex-wrap align-items-center justify-content-end">
 				<div class="col-first">
-					<h1>Welcome, Calon Supplier</h1>
+					<h1>Register Supplier</h1>
 					<nav class="d-flex align-items-center">
 						<a href="index.php">Home<span class="lnr lnr-arrow-right"></span></a>
 						<a href="reg_supplier.php">Daftar Supplier</a>
@@ -64,29 +64,35 @@
 							<div class="container">
 								<div class="row">
 									<div class="col-lg-12 form-group">
-										<input type="text" class="form-control" id="name" name="name" placeholder="Nama Lengkap" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Nama Lengkap'">
+										<input type="text" class="form-control" id="name" name="name" placeholder="Full Name" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Full Name'">
 									</div>
 								</div>
 							</div>
-
 							<div class="container">
 								<div class="row">
 									<div class="col-lg-12 form-group">
-										<input type="text" class="form-control" id="name" name="name" placeholder="Nama Toko" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Nama Toko'">
+										<input type="text" class="form-control" id="name" name="name" placeholder="Location" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Location'">
 									</div>
 									</div>
 							</div>
 							<div class="container">
 								<div class="row">
 									<div class="col-lg-12 form-group">
-										<input type="text" class="form-control" id="name" name="name" placeholder="Email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'E-Mail'">
+										<input type="text" class="form-control" id="name" name="name" placeholder="Shop Name" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Shop Name'">
 									</div>
 									</div>
 							</div>
 							<div class="container">
 								<div class="row">
 									<div class="col-lg-12 form-group">
-										<input type="text" class="form-control" id="name" name="name" placeholder="No. HP" onfocus="this.placeholder = ''" onblur="this.placeholder = 'No. HP'">
+										<input type="text" class="form-control" id="name" name="name" placeholder="Email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Email'">
+									</div>
+									</div>
+							</div>
+							<div class="container">
+								<div class="row">
+									<div class="col-lg-12 form-group">
+										<input type="text" class="form-control" id="name" name="name" placeholder="Phone Number" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Phone Number'">
 									</div>
 									</div>
 							</div>
@@ -99,14 +105,20 @@
 							</div><div class="container">
 								<div class="row">
 									<div class="col-lg-12 form-group">
-										<input type="text" class="form-control" id="name" name="name" placeholder="Konfirmasi Password" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Konfirmasi Password'">
+										<input type="text" class="form-control" id="name" name="name" placeholder="Confirm Password" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Confirm Password'">
 									</div>
 									</div>
 							</div>
 							<div class="container">
 								<div class="row">
-									<div class="col-lg-12 form-group">
-										<input type="file" class="form-control" id="name" name="name" placeholder="Choose" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Password'" value="Choose File">
+
+									<div class="col-lg-3 form-group">
+
+										<h6>ID Card</h6>
+									</div>
+									<div class="col-lg-9 form-group">
+
+										<input type="file"id="name" name="name" placeholder="Uploud KTP" onfocus="this.placeholder = 'Uploud KTP'" onblur="this.placeholder = 'Password'" value="Choose File">
 									</div>
 								</div>
 							</div>
@@ -114,7 +126,13 @@
 							<div class="col-md-12 form-group">
 								<button type="submit" value="submit" class="primary-btn">Register</button>
 							</div>
+							<div class="col-md-12 form-group">
+								Dengan mendaftar, saya menyetujui<br>
+								<b>Syarat dan Ketentuan</b> serta <b>Kebijakan Privasi</b>
+								<br>
+						</div>
 						</form>
+
 					</div>
 				</div>
 				<div class="col-lg-3"></div>

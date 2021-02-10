@@ -79,7 +79,7 @@
 								<input type="text" class="form-control" id="user" name="user" placeholder="Confirm Password" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Username'">
 							</div>
 							<div class="col-md-12 form-group">
-								<button type="submit" value="submit" class="primary-btn" name="login">Log In</button>
+								<button type="submit" value="submit" class="primary-btn" name="login">Register</button>
 								<br>
 							</div>
 						</form>

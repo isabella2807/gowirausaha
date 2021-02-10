@@ -48,7 +48,7 @@
             <li class="nav-item"><a class="nav-link" href="login.php">Login</a></li>
             <li class="nav-item submenu dropdown">
               <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
-               aria-expanded="false">Daftar</a>
+               aria-expanded="false">Register</a>
               <ul class="dropdown-menu">
                 <li class="nav-item"><a class="nav-link" href="reg_reseller.php">Reseller</a></li>
                 <li class="nav-item"><a class="nav-link" href="reg_supplier.php">Supplier</a></li>

@@ -62,7 +62,7 @@
                         <img src="img/blog/cat-post/cat-post-3.jpg" alt="post">
                         <div class="categories_details">
                             <div class="categories_text">
-                                <a href="blog-details.html">
+                                <a href="single-blog.php">
                                     <h5>Social Life</h5>
                                 </a>
                                 <div class="border_line"></div>

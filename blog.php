@@ -63,10 +63,10 @@
                         <div class="categories_details">
                             <div class="categories_text">
                                 <a href="single-blog.php">
-                                    <h5>Social Life</h5>
+                                    <h5>Reseller Sukses</h5>
                                 </a>
                                 <div class="border_line"></div>
-                                <p>Enjoy your social life together</p>
+                                <p>Menjadi reseller online modal dikit</p>
                             </div>
                         </div>
                     </div>
@@ -77,10 +77,10 @@
                         <div class="categories_details">
                             <div class="categories_text">
                                 <a href="blog-details.html">
-                                    <h5>Politics</h5>
+                                    <h5>Kuliah dan Kerja</h5>
                                 </a>
                                 <div class="border_line"></div>
-                                <p>Be a part of politics</p>
+                                <p>Belajar hidup mandiri di masa perkuliahan</p>
                             </div>
                         </div>
                     </div>
@@ -91,10 +91,10 @@
                         <div class="categories_details">
                             <div class="categories_text">
                                 <a href="blog-details.html">
-                                    <h5>Food</h5>
+                                    <h5>Produktivitas</h5>
                                 </a>
                                 <div class="border_line"></div>
-                                <p>Let the food be finished</p>
+                                <p>Meningktakan produktivitas di masa pandemif</p>
                             </div>
                         </div>
                     </div>

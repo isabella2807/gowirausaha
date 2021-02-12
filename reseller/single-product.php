@@ -75,7 +75,7 @@
 						<h3>Product 1</h3>
 						<h2>Rp. 150.000</h2>
 						<ul class="list">
-							<li><a class="active" href="home_reseller.php"><span>Toko</span> : Toko A</a></li>
+							<li><a class="active" href="home_reseller.php"><span>Shop</span> : Toserba Shop</a></li>
 							<li><a href="#"><span>Availibility</span> : In Stock</a></li>
 						</ul>
 						<p>Mill Oil is an innovative oil filled radiator with the most modern technology. If you are looking for

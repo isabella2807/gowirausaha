@@ -5,7 +5,7 @@
         <div class="sidebar-brand-icon rotate-n-15">
             <i class="fas fa-laugh-wink"></i>
         </div>
-        <div class="sidebar-brand-text mx-3">Supplier</div>
+        <div class="sidebar-brand-text mx-3">Reseller</div>
     </a>
 
     <!-- Divider -->
@@ -13,7 +13,7 @@
 
     <!-- Nav Item - Dashboard -->
     <li class="nav-item active">
-        <a class="nav-link" href="index_res.php">
+        <a class="nav-link" href="index.html">
             <i class="fas fa-fw fa-tachometer-alt"></i>
             <span>Dashboard</span></a>
     </li>
@@ -31,9 +31,9 @@
             <span>Data Product</span></a>
     </li>
     <li class="nav-item">
-        <a class="nav-link" href="add_product.php">
-            <i class="fas fa-fw fa-plus"></i>
-            <span>Add Product</span></a>
+        <a class="nav-link" href="table_shop.php">
+            <i class="fas fa-fw fa-user"></i>
+            <span>Data Supplier</span></a>
     </li>
     <li class="nav-item">
         <a class="nav-link" href="report_product.php">
@@ -41,7 +41,7 @@
             <span>Report Product</span></a>
     </li>
     <li class="nav-item">
-        <a class="nav-link" href="../supplier/home_supplier.php">
+        <a class="nav-link" href="../reseller/home_reseller.php">
             <i class="fas fa-fw fa-home"></i>
             <span>Home</span></a>
     </li>

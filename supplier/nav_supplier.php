@@ -4,7 +4,7 @@
     <nav class="navbar navbar-expand-lg navbar-light main_box">
       <div class="container">
         <!-- Brand and toggle get grouped for better mobile display -->
-        <a class="navbar-brand logo_h" href="index.html"><img src="img/logowi.png" alt=""></a>
+        <a class="navbar-brand logo_h" href="index.html"><img src="../img/logowi.png" alt=""></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
          aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="icon-bar"></span>
@@ -14,24 +14,20 @@
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse offset" id="navbarSupportedContent">
           <ul class="nav navbar-nav menu_nav ml-auto">
-            <li class="nav-item active"><a class="nav-link" href="index.php">Home</a></li>
-            <li class="nav-item"><a class="nav-link" href="blog.php">Blog</a></li>
-            <li class="nav-item"><a class="nav-link" href="chatbot.php">Chatbot</a></li>
-            <li class="nav-item"><a class="nav-link" href="login.php">Login</a></li>
-            <li class="nav-item submenu dropdown">
-              <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
-               aria-expanded="false">Register</a>
-              <ul class="dropdown-menu">
-                <li class="nav-item"><a class="nav-link" href="reg_reseller.php">Reseller</a></li>
-                <li class="nav-item"><a class="nav-link" href="reg_supplier.php">Supplier</a></li>
-              </ul>
-            </li>
+            <li class="nav-item active"><a class="nav-link" href="home_supplier.php">Home</a></li>
+            <li class="nav-item"><a class="nav-link" href="../dashboard/index_sup.php">Dashboard</a></li>
+            <li class="nav-item"><a class="nav-link" href="../index.php">Logout</a></li>
+
           </ul>
           <ul class="nav navbar-nav navbar-right">
             <li class="nav-item">
               <button class="search"><span class="lnr lnr-magnifier" id="search"></span></button>
             </li>
+            <li class="nav-item">
+
+            </li>
           </ul>
+
         </div>
       </div>
     </nav>

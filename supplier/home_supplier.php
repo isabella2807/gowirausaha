@@ -33,7 +33,7 @@
 <body id="category">
 
 	<!-- Start Header Area -->
-	<?php include 'nav_reseller.php'; ?>
+	<?php include 'nav_supplier.php'; ?>
 	<!-- End Header Area -->
 
 	<!-- Start Banner Area -->
@@ -44,6 +44,12 @@
 	</section>
 	<!-- End Banner Area -->
 	<div class="container">
+		<div class="section-title">
+			<center>
+				<h1>Toserba Shop</h1>
+				<p>Complete, Cheap, Reliable, Negotiation, Every time you can call me</p>
+			</center>
+		</div>
 		<div class="row">
 			<div class="col-xl-3 col-lg-4 col-md-5">
 				<div class="sidebar-categories">
@@ -234,30 +240,10 @@
 									<div class="single-product">
 										<img class="img-fluid" src="../img/product/p1.jpg" alt="">
 										<div class="product-details">
-											<h6>Product 1</h6>
+											<a href="single-product.php"><h6>Product 1</h6></a>
 												<div class="price">
 													<h6>Rp. 150.000</h6>
 													<h6 class="l-through">Rp.175.000</h6>
-												</div>
-													<b>Toserba Shop</b>
-												<div class="prd-bottom">
-													<a href="" class="social-info">
-														<span class="fa fa-facebook"></span>
-														<p class="hover-text">Share FB</p>
-													</a>
-													<a href="" class="social-info">
-														<span class="fa fa-instagram"></span>
-														<p class="hover-text">Share IG</p>
-													</a>
-													<a href="" class="social-info">
-														<span class="fa fa-whatsapp"></span>
-														<p class="hover-text">Share WA</p>
-													</a>
-
-													<a href="single-product.php" class="social-info">
-														<span class="lnr lnr-move"></span>
-														<p class="hover-text">detail</p>
-													</a>
 												</div>
 											</div>
 										</div>
@@ -267,31 +253,12 @@
 										<div class="single-product">
 											<img class="img-fluid" src="../img/product/p5.jpg" alt="">
 											<div class="product-details">
-												<h6>Product 2</h6>
+												<a href="single-product.php"><h6>Product 2</h6></a>
 													<div class="price">
 														<h6>Rp. 95.000</h6>
 														<h6 class="l-through">Rp. 120.000</h6>
 													</div>
-													<b>Toserba Shop</b>
-													<div class="prd-bottom">
-														<a href="" class="social-info">
-															<span class="fa fa-facebook"></span>
-															<p class="hover-text">Share FB</p>
-														</a>
-														<a href="" class="social-info">
-															<span class="fa fa-instagram"></span>
-															<p class="hover-text">Share IG</p>
-														</a>
-														<a href="" class="social-info">
-															<span class="fa fa-whatsapp"></span>
-															<p class="hover-text">Share WA</p>
-														</a>
 
-														<a href="single-product.php" class="social-info">
-															<span class="lnr lnr-move"></span>
-															<p class="hover-text">detail</p>
-														</a>
-													</div>
 												</div>
 											</div>
 										</div>
@@ -300,30 +267,12 @@
 											<div class="single-product">
 												<img class="img-fluid" src="../img/product/p3.jpg" alt="">
 												<div class="product-details">
-													<h6>Product 3</h6>
+													<a href="single-product.php"><h6>Product 3</h6></a>
 														<div class="price">
 															<h6>Rp. 170.000</h6>
 															<h6 class="l-through">Rp. 200.000</h6>
 														</div>
-														<b>Toserba Shop</b>
-														<div class="prd-bottom">
-															<a href="" class="social-info">
-																<span class="fa fa-facebook"></span>
-																<p class="hover-text">Share FB</p>
-															</a>
-															<a href="" class="social-info">
-																<span class="fa fa-instagram"></span>
-																<p class="hover-text">Share IG</p>
-															</a>
-															<a href="" class="social-info">
-																<span class="fa fa-whatsapp"></span>
-																<p class="hover-text">Share WA</p>
-															</a>
-															<a href="single-product.php" class="social-info">
-																<span class="lnr lnr-move"></span>
-																<p class="hover-text">detail</p>
-															</a>
-														</div>
+
 													</div>
 												</div>
 											</div>

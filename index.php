@@ -152,6 +152,12 @@
 	<!-- Start category Area -->
 	<section class="category-area">
 		<div class="container">
+			<div class="section-title">
+				<center>
+					<h1>Our Product</h1>
+					<p>Produk akan selalu bertambah, dan stok dari produk akan terekap otomatis</p>
+				</center>
+			</div>
 			<div class="row justify-content-center">
 				<div class="col-lg-8 col-md-12">
 					<div class="row">
